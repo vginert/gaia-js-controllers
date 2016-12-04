@@ -1,0 +1,39 @@
+{
+  "name": "gaia-js-controllers",
+  "description": "Basic controllers package for use with GaiaJs", 
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vginert/gaia-js-controllers.git"
+  },
+  "author": {
+    "name": "Vicente Giner Tendero",
+    "email": "vginert@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vginert/gaia-js-controllers/issues"
+  },
+  "homepage": "https://github.com/vginert/gaia-js-controllers#readme",
+  "keywords": [
+    "climate",
+    "terrarium",
+    "vivarium",
+    "grow room",
+    "tools"
+  ],
+  "files": [
+    "example",
+    "lib",
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "dependencies": {
+    "gaia-js": "~0.0.5"
+  }
+}
